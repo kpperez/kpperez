@@ -1,16 +1,26 @@
-### Hi there 👋
+## 🙋‍♂️ Introducing Myself 
 
-<!--
-**kpperez/kpperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LinkedIn Simple Banner](https://github.com/kpperez/kpperez/assets/123265217/2c1c25e9-702f-4520-9b94-d481b433f6c2)
 
-Here are some ideas to get you started:
+Hello, I'm Kyle. Data Analyst with Management Experience. Transforming data into insights for strategic decisions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Querying data using SQL.
+- Big data management and analysis with Python. 
+- Developing dashboards on Tableau and PowerBI.
+- Data analysis and reporting using Excel and Google Sheets.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/kpperez/Data-Analyst-Portfolio#readme).
+
+### 🛠️ Tools
+
+- Language: SQL, Python
+- Database: PostgreSQL, MySQL, Microsoft Access
+- Visualization: Tableau, PowerBI
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/kyle-p-perez/)
+- [Personal Website](https://www.kyle-perez.com/)
+
