@@ -11,7 +11,7 @@ Hello, I'm Kyle. Data Analyst with Management Experience. Transforming data into
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/kpperez/Data-Analyst-Portfolio#readme).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/kpperez/Portfolio-Guide).
 
 ### 🛠️ Tools
 
