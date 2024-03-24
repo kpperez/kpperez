@@ -5,7 +5,8 @@
 Hello, I'm Kyle. Data Analyst with Management Experience. Transforming data into insights for strategic decisions. 
 
 - Querying data using SQL.
-- Big data management and analysis with Python. 
+- Big data management and analysis with Python.
+- AWS cloud computing and data management for scalable infrastructure solutions. 
 - Developing dashboards on Tableau and PowerBI.
 - Data analysis and reporting using Excel and Google Sheets.
 
@@ -17,6 +18,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/kpper
 
 - Language: SQL, Python
 - Database: PostgreSQL, MySQL, Microsoft Access
+- Cloud: Amazon Web Services (AWS)
 - Visualization: Tableau, PowerBI
 
 ### 👋🏻 Connect with Me
